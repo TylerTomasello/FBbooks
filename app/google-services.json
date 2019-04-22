@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "255571806277",
+    "firebase_url": "https://fbbook-db750.firebaseio.com",
+    "project_id": "fbbook-db750",
+    "storage_bucket": "fbbook-db750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255571806277:android:6c0b2ae05f210c4d",
+        "android_client_info": {
+          "package_name": "mypackage.example.fbbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255571806277-p5l9c7n44uiihvja41l5ofsbo6qdttgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mypackage.example.fbbooks",
+            "certificate_hash": "10138b6055bff26a40217eb0d502790ffc3babf6"
+          }
+        },
+        {
+          "client_id": "255571806277-jd055pfct0nh4g4b0iiideu9aiq9n25c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHuR0NszoTJ1vrweuZJb6Mpe3Ez_aABoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255571806277-jd055pfct0nh4g4b0iiideu9aiq9n25c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
